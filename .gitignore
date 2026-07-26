@@ -3,6 +3,11 @@
 .env.*
 !.env.example
 
+# Private Projects
+12.Projects/
+generativeai/12.Projects/
+
+
 # Python bytecode & cache
 __pycache__/
 *.py[cod]

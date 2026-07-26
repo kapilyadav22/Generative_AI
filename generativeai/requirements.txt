@@ -1,6 +1,59 @@
+# Core LangChain & Execution Environment
 langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-experimental
+langchain-google-genai
+streamlit
 ipykernel
 python-dotenv
-langchain-google-genai
-langchain-core
-langchain_community
+
+
+# Text Splitters & Tokenizers
+tiktoken
+
+# PDF Document Loaders (PyPDFLoader, PyMuPDFLoader, PDFMinerLoader)
+pypdf
+pymupdf
+pdfminer.six
+
+# Advanced Document & Office Loaders (.md, .pdf, .docx, .pptx, .xlsx, .xml)
+unstructured
+markdown
+python-docx
+python-pptx
+openpyxl
+
+# Web Scraping & API Web Loaders (WebBaseLoader, SitemapLoader, ArXivLoader, WikipediaLoader)
+beautifulsoup4
+requests
+lxml
+arxiv
+wikipedia
+
+# Structured Data Loaders (JSONLoader, CSVLoader)
+jq
+pandas
+
+# Vector Embeddings & Local Models
+langchain-openai
+langchain-huggingface
+sentence-transformers
+
+# Vector Databases & Stores
+langchain-chroma
+chromadb
+faiss-cpu
+langchain-pinecone
+pinecone-client
+langchain-qdrant
+qdrant-client
+langchain-astradb
+astrapy
+
+
+# Advanced Retrievers & Hybrid Search
+rank-bm25
+
+
