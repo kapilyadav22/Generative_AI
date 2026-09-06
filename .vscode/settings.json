@@ -1,7 +1,0 @@
-{
-  "python.analysis.extraPaths": [
-    "${workspaceFolder}",
-    "${workspaceFolder}/generativeai",
-    "${workspaceFolder}/generativeai/Core_Components"
-  ]
-}
